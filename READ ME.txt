@@ -1,0 +1,2 @@
+file bat " OPEN ME , DON'T WORRY FOR YOUR PC " if u open this file it's will spam cmd , and that file will run the command " taskkill /f /im cmd.exe " if run that command the spam cmd will stop.
+don't worry!
